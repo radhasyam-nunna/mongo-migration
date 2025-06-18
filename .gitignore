@@ -1,0 +1,6 @@
+# Ignore all Python bytecode files
+__pycache__/
+*.py[cod]
+*.log
+*.json
+/json
